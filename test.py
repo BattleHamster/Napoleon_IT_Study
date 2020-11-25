@@ -19,3 +19,7 @@ class Solution:
                 i += 1
 
         return result
+    
+
+test = Solution()
+print(test.romanToInt(s="IXXCCD"))
